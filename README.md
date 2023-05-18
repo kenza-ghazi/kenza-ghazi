@@ -1,4 +1,4 @@
-![logo](https://github.com/kenza-ghazi/kenza-ghazi/blob/main/banniere_ghazi.jpg?raw=true)
+![logo](https://github.com/kenza-ghazi/kenza-ghazi/blob/main/bkg.jpg?raw=true)
 <h1 align="center">Bonjour 👋, Je suis Kenza Ghazi</h1>
 <h3 align="center">Je suis une étudiante en dev web de 22 ans.</h3>
 
