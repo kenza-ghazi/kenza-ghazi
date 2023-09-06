@@ -1,4 +1,3 @@
-![logo](https://github.com/kenza-ghazi/kenza-ghazi/blob/main/bkg.jpg?raw=true)
 <h1 align="center">Bonjour 👋, Je suis Kenza Ghazi 22ans </h1>
 <h3 align="center">👩‍💻 Étudiante en 2ème année de Bachelor IT 🖥️ | En recherche d'une alternance 🔄 | Passionnée par les nouvelles technologies et toujours prête à apprendre 🚀 | N'hésitez pas à consulter mes projets et à me contacter pour toute opportunité ! 💌
 .</h3>
