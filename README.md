@@ -3,6 +3,8 @@
 <h3 align="center">👩‍💻 Étudiante en 2ème année de Bachelor IT 🖥️ | En recherche d'une alternance 🔄 | Passionnée par les nouvelles technologies et toujours prête à apprendre 🚀 | N'hésitez pas à consulter mes projets et à me contacter pour toute opportunité ! 💌
 .</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenza-ghazi&label=Profile%20views&color=0e75b6&style=flat" alt="kenza-ghazi" /> </p>
+
 <h3 align="left" >Contactez-moi :</h3>
 <p align="left">
 <a href="https://twitter.com/kenza_ghazi13" target="blank"><img align="center" src="https : //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenza_ghazi13" height="30" width="40" /></a>
